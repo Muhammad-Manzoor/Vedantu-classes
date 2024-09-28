@@ -1,0 +1,8 @@
+
+C++:8 Python:15 
+Program in C:2 
+Java Programming:10 
+Data Science:20 
+Data warehouse:23 
+C:10 
+Algo:123
